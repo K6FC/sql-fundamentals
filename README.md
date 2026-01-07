@@ -16,8 +16,8 @@ Repositório da minha primeira semana de estudos em SQL básico, focado no apren
 - Git & GitHub
 
 ## Estrutura do Repositório
-─ data/Datasets utilizados
-─ queries/Consultas SQL
+- data/Datasets utilizados
+- queries/Consultas SQL
 - README.md
 
 ## Dataset 
