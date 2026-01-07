@@ -16,9 +16,12 @@ Repositório da minha primeira semana de estudos em SQL básico, focado no apren
 - Git & GitHub
 
 ## Estrutura do Repositório
-- data/Datasets utilizados
-- queries/Consultas SQL
-- README.md
+
+```
+├── data/           # Datasets utilizados
+├── queries/        # Consultas SQL
+└── README.md       # Neste Arquivo
+```
 
 ## Dataset 
 Está sendo utilizado um dataset público do Kaggle, todo com fins educativos.
